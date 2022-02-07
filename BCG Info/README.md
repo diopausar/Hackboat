@@ -1,1 +1,1 @@
-Here are all the resources you want to run a scenario! 
+Here are all the resources you need if you want to run a scenario! 
