@@ -10,9 +10,31 @@ Since its introduction in 1997, the National Marine Electronics Association’s 
 - Read up on the [BCG User Guide](https://github.com/diopausar/Hackboat/blob/06d57bc5c3927e35a43a338542b22da13930f47d/BCG%20Info/README.md) to learn how to run a scenario.
 -
 
-## Hardware
+## Devolopment
 
-## Software
+### Hardware
+
+### Software
 
 ## Acknowledgement  
 This capstone project has primarily been worked on during the Fall 2021 7426 Capstone Projects in Electrical Engineering and Cyber Systems I course. LCDR Jason Veara, the course coordinator, and Mr. Constantine A. Macris, the project advisor, have provided much guidance and vision on this project.
+
+## Refrences
+### Notes
+
+### Citations
+
+### Bibliography
+1. A. Androjna, T. Brcko, I. Pavic and H. Greidanus, "Assessing Cyber Challenges of Maritime Navigation", 2021. 
+2. D. Medina, C. Lass, E. P. Marcos, R. Ziebold, P. Closas and J. García, "On GNSS Jamming Threat from the Maritime Navigation Perspective," 2019 22th International Conference on Information Fusion (FUSION), 2019, pp. 1-7. 
+3. J. King, "The Story You Aren’t Being Told About Iran Capturing Two American Vessels", MintPress News, 2016. [Online]. Available: https://www.mintpressnews.com/the-story-you-arent-being-told-about-iran-capturing-two-american-vessels/212937/. 
+4. N. Park, "Performance Analysis for VTS-Based Data Exchange Protocol in E-Navigation Environment", International Journal of Multimedia and Ubiquitous Engineering, 2021. 
+5. R. Alaspa, B. Glashagel, D. Donahue, and R. Piche, 2020-2021 SCVELR Requirements Document, USCGA Capstone Projects in EE/CYS 
+6. T. Moore, C. Hill, A. Norris, C. Hide, D. Park, and N. Ward, “The Potential Impact of GNSS/INS Integration on Maritime Navigation,” Journal of Navigation, vol. 61, no. 2, pp. 221–237, 2008. 
+7. R. Alaspa, B. Glashagel, D. Donahue, and R. Piche, Test, USCGA Capstone Projects in EE/CYS 
+8. R. Alaspa, B. Glashagel, D. Donahue, and R. Piche, Paper Outline, USCGA Capstone Projects in EE/CYS 
+9. R. Alaspa, B. Glashagel, D. Donahue, and R. Piche, Hackboat Final Paper, USCGA Capstone Projects in EE/CYS 
+10. "Fathom5", Fathom5.co, 2021. [Online]. Available: https://www.fathom5.co/. [Accessed: 07- Dec- 2021]. 
+11. C. Macris, OpenBridge: NMEA-2000 for everyone, HackTheSea https://www.youtube.com/watch?v=DAXNITXX3iA&t=2819s 
+12. R. Alaspa, B. Glashagel, D. Donahue, and R. Piche, Poster, USCGA Capstone Projects in EE/CYS 
+13. Garmin GPS17x Series Chartplotter Manual https://support.garmin.com/en-GB/?faq=7tViTzm5bL1b3VY7uZZJn5
