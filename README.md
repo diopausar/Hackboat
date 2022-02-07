@@ -5,8 +5,8 @@ The Seagoing Vessel Control Environment Laboratory Resource (SVCELR), also known
 ## The Mission
 
 ## Learning Resources
-- Here's a link that goes over how to read logic: https://www.youtube.com/watch?v=DAXNITXX3iA
-- Read up on the [BCG User Guide](https://github.com/diopausar/Hackboat/blob/d2fddf7c036f882f84c46f76bc749b9963adb182/BCG%20User%20Guide.docx) to learn how to run a scenario.
+- Learn how to read logic using this [video](https://www.youtube.com/watch?v=DAXNITXX3iA).
+- Read up on the [BCG User Guide](https://github.com/diopausar/Hackboat/blob/06d57bc5c3927e35a43a338542b22da13930f47d/BCG%20Info/README.md) to learn how to run a scenario.
 -
 
 ## Hardware
