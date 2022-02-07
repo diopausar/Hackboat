@@ -6,7 +6,7 @@ The Seagoing Vessel Control Environment Laboratory Resource (SVCELR), also known
 
 ## Learning Resources
 - Here's a link that goes over how to read logic: https://www.youtube.com/watch?v=DAXNITXX3iA
-- 
+- Read up on the [BCG User Guide](https://github.com/diopausar/Hackboat/blob/d2fddf7c036f882f84c46f76bc749b9963adb182/BCG%20User%20Guide.docx) to learn how to run a scenario.
 -
 
 ## Hardware
