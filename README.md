@@ -7,7 +7,7 @@ Since its introduction in 1997, the National Marine Electronics Association’s 
 
 ## Learning Resources
 - Learn how to read logic using this [video](https://www.youtube.com/watch?v=DAXNITXX3iA).
-- Read up on the [BCG User Guide](https://github.com/diopausar/Hackboat/blob/06d57bc5c3927e35a43a338542b22da13930f47d/BCG%20Info/README.md) to learn how to run a scenario.
+- Read up on the [BCG User Guide](https://github.com/diopausar/Hackboat/blob/057d83b9c1d2bdb4273eb9628e47707de199ea7e/BCG%20Info/BCG%20User%20Guide.pdf) to learn how to run a scenario.
 -
 
 ## Development
