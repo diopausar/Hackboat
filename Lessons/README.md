@@ -20,6 +20,6 @@ Take this cumulative quiz!!
 
 ## Intro to Reading & Writing PGNS
 This course will help users learn how to read and write PGNs to and from the bus!
-- Starting to Read Logic
+- [Starting to Read Logic](https://github.com/diopausar/Hackboat/blob/main/Lessons/Intro%20to%20Reading%20&%20Writing%20PGNS/Starting%20to%20Read%20Logic/README.md)
 - 
 ## Scenarios
