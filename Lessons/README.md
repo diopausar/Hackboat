@@ -12,6 +12,11 @@
 NMEA-2000
 Reading PGNs
 Data Injection
+| Syntax        Description |
+| --------------------- |
+| Header      |
+|Title       |
+| Paragraph   |
 
 ## Usage
 
@@ -21,7 +26,3 @@ Data Injection
 | NMEA 2000    | Text        |
 
 
-| Syntax        Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
