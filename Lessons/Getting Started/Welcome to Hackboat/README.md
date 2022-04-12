@@ -7,5 +7,6 @@ SVCELR aims to help spread awareness to a variety of audiences, which will hopef
 ## Sponsors
 The SVCELR is sponsored by the Coast Guard Command, Control, Communications, Computers, Cyber, and Intelligence Service Center (C5ISC) as well as the Cybersecurity and Infrastructure Security Agency (CISA), all serving as the major project stakeholders. 
 
+
 > #### Next Lesson
 > #### Back to Lesson Plan
