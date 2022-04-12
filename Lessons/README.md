@@ -1,8 +1,6 @@
 # Curriculum Summary
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -21,3 +19,9 @@ Data Injection
 | ----------- | ----------- |
 | Welcome to Hackboat      | CAN Protocol       |
 | NMEA 2000    | Text        |
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
