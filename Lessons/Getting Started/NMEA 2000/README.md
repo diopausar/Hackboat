@@ -3,4 +3,4 @@ Since its introduction in 1997, the National Marine Electronics Association’s 
 
 The National Marine Electronics Association NMEA-2000 communication standard encompasses a wide variety of navigational equipment which can be networked on a single backbone or bus to communicate with each other and be compartmentalized on a display. 
 
-![the image](https://github.com/[diopausar]/[Hackboat]/[Images]/Basic NMEA 2000 Network.jpg?raw=true)
+![the image](https://github.com/diopausar/Hackboat/blob/main/Images/Basic%20NMEA%202000%20Network.jpg?raw=true)
