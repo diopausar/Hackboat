@@ -8,7 +8,7 @@
 What is the Hackboat console all about? What is NMEA 2000 anyways? We'll start with giving you an overview of our project, NMEA 2000, and more to help get you started!
 
 **Learn**
-- Welcome to Hackboat
+- [Welcome to Hackboat] (https://github.com/diopausar/Hackboat/tree/main/Lessons/Getting%20Started/Welcome%20to%20Hackboat)
 - CAN Protocol
 - NMEA 2000
 - PGNs
