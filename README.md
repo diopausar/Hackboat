@@ -5,9 +5,8 @@ The **Seagoing Vessel Control Environment Laboratory Resource (SVCELR)**, also k
 ## Our Mission
 Since its introduction in 1997, the National Marine Electronics Association’s NMEA 2000 communications standard has become one of the most used electronic networking protocols in the maritime industry. NMEA has certified over 1000 different devices to utilize the NMEA 2000 (N2K) standard to transmit data between sensors and displays on a common network. N2K networks utilize a bus topology, which, while simple and robust, gives rise to a protocol vulnerability. If exploited, this could impact the operations of the Coast Guard or other theaters of marine transportation without proper awareness and understanding of N2K’s function. Targeted training platforms can help with promoting this awareness. This project aims to create a learning environment for future Coast Guard officers and mariners by demonstrating N2K’s vulnerability to data injection in a simulated ship voyage environment. 
 
-## How to Get Started
-- Learn how to read logic using this [video](https://www.youtube.com/watch?v=DAXNITXX3iA).
-- Read up on the [BCG User Guide](https://github.com/diopausar/Hackboat/blob/057d83b9c1d2bdb4273eb9628e47707de199ea7e/BCG%20Info/BCG%20User%20Guide.pdf) to learn how to run a scenario.
+## Jump In Right Now!!!
+Hop on our **[lesson plan](https://github.com/diopausar/Hackboat/tree/main/Lessons)** to get started!!!
 
 ## Development
 During the Fall 2020 - Spring 2021 academic year, the inaugural SVCELR capstone project team built the foundation for the project and research that is being continued today. A structural console design was created with the intent to make it resemble the bridge of a vessel, while still maintaining a compact and lightweight structure to support mobility. The console also had a software design with two different functions: reading and writing NMEA 2000 data [12]. With these designs established, the much-needed foundational knowledge and understanding of the NMEA 2000 protocol, shipboard network structure, as well as the mission need for the project, development and construction of the design was eventually able to begin [9]. 
