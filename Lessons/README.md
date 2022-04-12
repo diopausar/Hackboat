@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Intro to Reading and Writing PGNs](#usage)
+- [Intro to Reading and Writing PGNs](#intro-to-reading-&-writing-pgns)
 - [Sceneraios](#credits)
 
 ## Getting Started
@@ -19,7 +19,7 @@ What is the Hackboat console all about? What is NMEA 2000 anyways? We'll start w
  
 Take this cumulative quiz!!
 
-## Intro to Reading PGNS
+## Intro to Reading & Writing PGNS
 This course will help users learn how to read and write PGNs to and from the bus!
 
 
