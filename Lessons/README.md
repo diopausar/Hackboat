@@ -1,10 +1,8 @@
-# Curriculum Summary
-
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Intro to Reading and Writing PGNs](#intro-to-reading-&-writing-pgns)
-- [Sceneraios](#credits)
+- [Intro to Reading and Writing PGNs](#intro-to-reading--writing-pgns)
+- [Scenarios](#scenarios)
 
 ## Getting Started
 What is the Hackboat console all about? What is NMEA 2000 anyways? We'll start with giving you an overview of our project, NMEA 2000, and more to help get you started!
@@ -22,4 +20,4 @@ Take this cumulative quiz!!
 ## Intro to Reading & Writing PGNS
 This course will help users learn how to read and write PGNs to and from the bus!
 
-
+## Scenarios
