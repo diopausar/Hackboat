@@ -21,7 +21,7 @@ Data Injection
 | NMEA 2000    | Text        |
 
 
-| Syntax      | Description |
+| Syntax        Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
