@@ -12,6 +12,7 @@ What is the Hackboat console all about? What is NMEA 2000 anyways? We'll start w
 - CAN Protocol
 - NMEA 2000
 - PGNs
+
 **Labs**
 - Starting the Console
  
