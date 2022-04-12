@@ -12,6 +12,9 @@ What is the Hackboat console all about? What is NMEA 2000 anyways? We'll start w
 - [NMEA 2000](https://github.com/diopausar/Hackboat/blob/main/Lessons/Getting%20Started/NMEA%202000/README.md)
 - [CAN Protocol](https://github.com/diopausar/Hackboat/tree/main/Lessons/Getting%20Started/CAN%20Protocol)
 - PGNs
+- BCG
+
+- Read up on the [BCG User Guide](https://github.com/diopausar/Hackboat/blob/057d83b9c1d2bdb4273eb9628e47707de199ea7e/BCG%20Info/BCG%20User%20Guide.pdf) to learn how to run a scenario.
 
 **Labs**
 - Starting the Console
