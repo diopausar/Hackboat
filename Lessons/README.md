@@ -20,5 +20,6 @@ Take this cumulative quiz!!
 
 ## Intro to Reading & Writing PGNS
 This course will help users learn how to read and write PGNs to and from the bus!
-
+- Starting to Read Logic
+- 
 ## Scenarios
