@@ -7,4 +7,4 @@ The National Marine Electronics Association NMEA-2000 communication standard enc
 ![the image](https://github.com/diopausar/Hackboat/blob/main/Images/Basic%20NMEA%202000%20Network.jpg?raw=true)
 
 > #### [Previous Lesson](https://github.com/diopausar/Hackboat/tree/main/Lessons/Getting%20Started/Welcome%20to%20Hackboat)
-> #### Next Lesson
+> #### [Next Lesson] (https://github.com/diopausar/Hackboat/blob/main/Lessons/Getting%20Started/CAN%20Protocol/README.md)
