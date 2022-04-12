@@ -12,7 +12,7 @@
 NMEA-2000
 Reading PGNs
 Data Injection
-| Syntax        Description |
+| ## Syntax        Description |
 | --------------------- |
 | Header      |
 |Title       |
