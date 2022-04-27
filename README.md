@@ -15,12 +15,6 @@ Even with the previous group putting their construction and development of the c
 
 The 2021-2022 team aims to make improvements on the inaugural design both physically and electronically, by redesigning the previous structural unit and investigating more modern solutions for exploiting the electronics. Utilizing modern navigation equipment and realistic scenarios, this enables the possibility of diversifying learning opportunities for users and keeping this project relevant over time. Inspired by the team at [FATHOM5](https://www.fathom5.co/), this controlled environment laboratory resource is designed to display the effects of a cyber-attack while underway on a vessel, and the simulations produced by the entire system make this mission possible. 
 
-### Physical Design
-
-### Hardware
-
-### Software
-
 ## Acknowledgement  
 This capstone project has primarily been worked on during the Fall 2021 7426 Capstone Projects in Electrical Engineering and Cyber Systems I course. LCDR Jason Veara, the course coordinator, and Mr. Constantine A. Macris, the project advisor, have provided much guidance and vision on this project.
 
