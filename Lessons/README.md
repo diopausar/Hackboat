@@ -13,7 +13,7 @@ What is the Hackboat console all about? What is NMEA 2000 anyways? We'll start w
 - [CAN Protocol](https://github.com/diopausar/Hackboat/tree/main/Lessons/Getting%20Started/CAN%20Protocol)
 - PGNs
 
-**Resources**
+**Downloads**
 - [Maretron Documents](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/diopausar/Hackboat/blob/main/Maretron%20Resources/menu.html)
 
 **Labs**
